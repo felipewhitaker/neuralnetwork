@@ -1,0 +1,6 @@
+./lightning_logs/
+./papers/
+./temp/
+./data/**/*
+./download/helpers/
+./**/__pycache__/
