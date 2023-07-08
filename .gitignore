@@ -1,6 +1,6 @@
-./lightning_logs/
-./papers/
-./temp/
-./data/**/*
-./download/helpers/
-./**/__pycache__/
+papers/
+data/**/*
+neuralnetwork/download/helpers/
+**/__pycache__/
+lightning_logs/
+checkpoints/
